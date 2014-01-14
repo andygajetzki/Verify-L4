@@ -1,7 +1,7 @@
 <?php
 namespace Toddish\Verify\Models;
 
-class BaseModel extends \Eloquent
+class BaseModel extends \Ember
 {
     /**
      * Table prefix
